@@ -6,6 +6,6 @@
 ### 진행 순서
 1. Pandas
 2. 데이터 사전 처리
-3. 데이터프레임의 다양한 응용
 4. 시각화 도구 (Matplotlib, Seaborn)
+3. 데이터프레임의 다양한 응용
 5. 다양한 시각화 (Folium, Wordcloud, Radar Chart, Calmap 등), 시각화 도구 plotly, 시계열데이터 분석
